@@ -4,7 +4,7 @@ baseurl: ""
 
 # Authentication
 github_client_id: f6589e8bdd959f1018f1
-gatekeeper_host: https://jkan-andria.herokuapp.com/
+gatekeeper_host: https://jkan-andria.herokuapp.com
 
 # Categories
 category_list:
