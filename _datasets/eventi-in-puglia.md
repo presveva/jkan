@@ -1,6 +1,6 @@
 ---
 title: Eventi in Puglia
-organization: Sample Department
+organization: Regione Puglia
 notes: Eventi in Puglia
 resources:
   - name: Eventi in Puglia xml
